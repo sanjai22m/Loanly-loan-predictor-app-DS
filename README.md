@@ -5,7 +5,9 @@ Applying for a loan and getting it sanctioned and approved by the bank or other 
 
 
 Languages used: Python, HTML, CSS.
+
 Web framework used: Flask, wsgi, jinja2.
+
 Python modules used: Pandas, numpy, seaborn, matplotlib, pickle, sklearn and flask.
 
 Dataset used for model training: Loan prediction data from MachineHack.
