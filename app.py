@@ -48,7 +48,7 @@ def prediction():
         gender, married, dependents, education, self_employed, property_area)
     
     loan_status = model.predict([[
-        int(gender), int(married), int(dependents), int(education), int(self_employed), int(applicant_income), int(coapplicant_income), int(loan_amount), int(loan_amount_term), int(credit_history), int(property_area)]])
+        int(gender), int(married), int(dependents), int(education), int(self_employed), int(applicant_income), int(coapplicant_income), int(loan_amount)/1000, int(loan_amount_term), int(credit_history), int(property_area)]])
 
     pred_result = ''
     if loan_status == 1:
