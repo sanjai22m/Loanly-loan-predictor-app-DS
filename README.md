@@ -3,6 +3,8 @@ As we all know that loan is lending of money by one or more individuals, organiz
 
 Applying for a loan and getting it sanctioned and approved by the bank or other organization is a time consuming process. My Loanly, loan predictor application aims at automating the loan eligibility process in real time based on the customer details provided while filling online application form. These details include Gender, Marital Status, Education, Income, Loan Amount, Credit History, etc. These details are used to automate and predict the customer’s eligibility for the specified loan amount.
 
+##deployed in Heroku
+loanly-loan-predictor.herokuapp.com/
 
 Languages used: Python, HTML, CSS.
 
